@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d67f6c0cfbca7948ada5f9d551cbfbe, type: 3}
+  m_Name: Air3
+  m_EditorClassIdentifier: 
+  attacks:
+  - {fileID: 11400000, guid: a719d8c96412fb0449d90246adc10167, type: 2}
+  - {fileID: 11400000, guid: b7f00e0b33f8139499b9630b94c87a20, type: 2}
+  - {fileID: 11400000, guid: 37d44f4cc53d07d458ec28ac9b64c960, type: 2}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0263ae7959da9394398f9f01af581a05, type: 3}
+  m_Name: Cube
+  m_EditorClassIdentifier: 
+  level: 5
+  hpBase: 50
+  maliceBase: 5
+  strengthBase: 5
+  magicBase: 5
+  defenseBase: 5
+  resistanceBase: 5
+  hpGrowth: 5
+  maliceGrowth: 0.5
+  strengthGrowth: 5
+  magicGrowth: 5
+  defenseGrowth: 5
+  resistanceGrowth: 5
+  maxHp: 75
+  curHp: 75
+  malice: 7.5
+  curMalice: 0
+  maliceCooldown: 0.25
+  maliceMultiplier: 3
+  strength: 30
+  magic: 30
+  defense: 30
+  resistance: 30

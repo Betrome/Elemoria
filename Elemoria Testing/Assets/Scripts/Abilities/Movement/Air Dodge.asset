@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d642e1d52294b5d4a832243cf70b3241, type: 3}
+  m_Name: Air Dodge
+  m_EditorClassIdentifier: 
+  abilityName: 
+  description: 
+  level: 0
+  radiation: 2
+  grounded: 0
+  speed: 8
+  height: 2.5
+  anim: {fileID: 6414737702932124220, guid: 41f1d114cf085c54fa56168d22035685, type: 3}

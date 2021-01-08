@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7fd030534e97104595759c59d991fd1, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: Assembly-CSharp::MoveSets
+  run: {fileID: 11400000, guid: c00268279b310e54eaf01e407b63a818, type: 2}
+  dodge: {fileID: 11400000, guid: b61c1d6e8a5b5294b9900baa4f4de901, type: 2}
+  guard: {fileID: 11400000, guid: 9457f79ee331f3e459e52cb1c36d762b, type: 2}
+  jump: {fileID: 11400000, guid: 8c93d643edc297745a77d8647a457d8c, type: 2}
+  airDodge: {fileID: 11400000, guid: d8f8ec5a0226d284fa4d355c8a0439dc, type: 2}

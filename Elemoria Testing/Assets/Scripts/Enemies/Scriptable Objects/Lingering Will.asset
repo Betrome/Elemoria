@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0263ae7959da9394398f9f01af581a05, type: 3}
+  m_Name: Lingering Will
+  m_EditorClassIdentifier: 
+  level: 50
+  hpBase: 10
+  maliceBase: 5
+  strengthBase: 20
+  magicBase: 20
+  defenseBase: 15
+  resistanceBase: 20
+  hpGrowth: 15
+  maliceGrowth: 0.5
+  strengthGrowth: 10
+  magicGrowth: 5
+  defenseGrowth: 3
+  resistanceGrowth: 3
+  maxHp: 760
+  curHp: 760
+  malice: 30
+  curMalice: 0
+  maliceCooldown: 0.25
+  maliceMultiplier: 5
+  strength: 520
+  magic: 270
+  defense: 165
+  resistance: 170
